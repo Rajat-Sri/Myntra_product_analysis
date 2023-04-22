@@ -1,6 +1,6 @@
 # Myntra_product_analysis
 
-Through an EDA of retail products:
+Through this EDA of retail products we can:
 
 Identify popular product types to adjust product lines
 
