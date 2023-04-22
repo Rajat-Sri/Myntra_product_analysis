@@ -1,16 +1,23 @@
 # Myntra_product_analysis
 
-Summary Report:
+Through an EDA of retail products:
 
-There are 146,435 unique products in the dataset.
-The average rating of the products is 4.17.
-The average discount percentage of the products is 37.15%.
-The top 5 most expensive products are Lord Krishna Showpiece, Durga Maa On Lion Showpiece, Men Stainless Steel Straps Multi Function Automatic Motion Watch, Men Leather Straps Multi Function Automatic Motion Watch, Men Stainless Steel Straps Automatic Motion Watch.
-The most popular product types are t-shirts, shirts, dresses, tops, kurta-sets, kurtas, jeans, trousers, and casual shoes.
-Most people who are rating products usually rate between 4-5.
-The top 10 brands with the maximum number of products are Roadster, Mast & Harbour, DressBerry, H&M, Anouk, max, HRX by Hrithik Roshan, Puma, MANGO, and HERE&NOW.
-Products with the highest average rating are 1 Stop Fashion, ORTANGE, Tiara, Anahi, and Apple.
-The most expensive brands are eCraftIndia, EARNSHAW, D1 Milano, Masaba, dyson, Victorinox, Tom Ford, TISSOT, Versace Jeans Couture, and Calvin Klein.
-The most expensive product categories are showpieces, watches, lehenga-choli, hair appliances, sunglasses, jeans, trolley bags, carpets, t-shirts, and shirts.
-Earnshaw is the costliest watch followed by TISSOT, Emporio Armani, while Tommy Hilfiger, Daniel Wellington, and Armani Exchange are comparatively cheaper.
-The top 5 brands with the widest range of products are Roadster, Mast & Harbour, DressBerry, H&M, and Anouk.
+Identify popular product types to adjust product lines
+
+Understand top brands to remain competitive and adjust marketing and pricing strategies
+
+Determine pricing for products based on pricing trends in the market
+
+Plan discounting strategies and pricing strategies more effectively based on the relationship between discount percentage and product ratings
+
+Gain insights into customer preferences and buying behavior to improve product offerings
+
+Identify high-demand product categories to prioritize inventory and production efforts
+
+Understand product ratings to improve product quality and meet customer expectations
+
+Gain insights into the most expensive product categories and brands to make informed decisions about product offerings and pricing strategies
+
+Analyze the relationship between product attributes, such as size and color, and sales to optimize product offerings
+
+Use insights to improve overall customer satisfaction and loyalty.
